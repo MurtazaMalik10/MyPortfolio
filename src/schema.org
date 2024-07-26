@@ -1,0 +1,22 @@
+<head>
+  <!-- Title and Meta Tags -->
+  <title>Malik Murtaza | DevOps Engineer</title>
+  <meta name="description" content="Malik Murtaza - DevOps Engineer with expertise in AWS, Docker, Linux, and Git.">
+  <meta name="keywords" content="Malik Murtaza, DevOps Engineer, AWS, Docker, Linux, Git">
+  
+  <!-- Schema.org for Person -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Malik Murtaza Rizwan",
+    "jobTitle": "DevOps Engineer",
+    "description": "Malik Murtaza - DevOps Engineer with expertise in AWS, Docker, Linux, and Git.",
+    "url": "https://yourwebsiteurl.com",
+    "sameAs": [
+      "https://www.linkedin.com/in/murtaza-rizwan-malik/",
+      "https://github.com/MurtazaMalik10"
+    ]
+  }
+  </script>
+</head>
